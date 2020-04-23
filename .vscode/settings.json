@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "utility": "c",
+        "enemie.h": "c",
+        "stdio.h": "c",
+        "player.h": "c",
+        "bullet.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "sdl_image.h": "c",
+        "definition.h": "c",
+        "sdl_ttf.h": "c"
+    }
+}
